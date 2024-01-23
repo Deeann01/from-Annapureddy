@@ -15,7 +15,7 @@ Paradise Biryani is a renowned restaurant chain known for its delectable biryani
 4. Chicken fry
 5. Prawns Biryani
 
-Places to visit near the restaurant
+## Places to visit near the restaurant
 
 * Starbucks
 * Gas station
