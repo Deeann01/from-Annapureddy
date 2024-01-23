@@ -4,7 +4,7 @@
 
 Paradise Biryani is a renowned restaurant chain known for its delectable biryani offerings. Originating in **Hyderabad, India** Paradise has gained widespread popularity for its **flavorful and aromatic biryanis** that showcase the rich culinary heritage of the region.
 *************************************
-Non Vegetarian Recipes
+## Non Vegetarian Recipes
 1. Chicken Biryani
 2. Fish
     1. Fish Fry
@@ -32,5 +32,7 @@ Places to visit near the restaurant
         * Desi Food
     * Gucchi
     * RK Jewellers
+
+
 
 
