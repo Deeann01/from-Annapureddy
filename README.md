@@ -48,6 +48,16 @@ Here are a few book recommendations that are worth reading at least once.
 | "The Four Pillars of Investing"                 | Covers theory, history, psychology, and business of investing | William J. Bernstein |
 | "Common Sense on Mutual Funds"                  | Advocates for index fund investing and portfolio building | John C. Bogle         |
 
+---
+## Favorite Quotes
+
+> "If you don't find a way to make money while you sleep, you will work until you die"  
+> *Warren Buffet*
+
+> "The best way to predict the future is to create it."  
+> *Peter Drucker*
+
+
 
 
 
