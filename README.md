@@ -66,3 +66,8 @@ Uses Dart packaging URI to get the path to a package allowing one to pull assets
    ```Dart
    import 'dart:isolate';
    var resolvedUri = await Isolate.resolvePackageUri(Uri(scheme: 'package', path: 'my_package/src/assets/cool_image.jpg')
+   ```
+
+   [Quick Link to Snippet Source](https://code.pieces.app/collections/dart)
+
+
