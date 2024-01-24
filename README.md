@@ -57,9 +57,12 @@ Here are a few book recommendations that are worth reading at least once.
 > "The best way to predict the future is to create it."  
 > *Peter Drucker*
 
+---
+## Code to Copy files from Dart Package
+
+Uses Dart packaging URI to get the path to a package allowing one to pull assets/files from a Dart package. 
 
 
-
-
-
-
+   ```Dart
+   import 'dart:isolate';
+   var resolvedUri = await Isolate.resolvePackageUri(Uri(scheme: 'package', path: 'my_package/src/assets/cool_image.jpg')
