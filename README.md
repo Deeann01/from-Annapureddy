@@ -49,13 +49,16 @@ Here are a few book recommendations that are worth reading at least once.
 | "Common Sense on Mutual Funds"                  | Advocates for index fund investing and portfolio building | John C. Bogle         |
 
 ---
-## Favorite Quotes
+## Favourite Quotes
 
-> "If you don't find a way to make money while you sleep, you will work until you die"  
-> *Warren Buffet*
+> "If you don't find a way to make money while you sleep, you will work until you die"  -*Warren Buffet*
 
-> "The best way to predict the future is to create it."  
-> *Peter Drucker*
+>"Risk comes from not knowing what you're doing." -*Warren Buffet*
+
+>"Price is what you pay. Value is what you get." -*Warren Buffet*
+
+>"The best investment you can make is in yourself." -*Warren Buffet*
+
 
 ---
 ## Code to Copy files from Dart Package
