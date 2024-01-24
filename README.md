@@ -36,6 +36,18 @@ Paradise Biryani is a renowned restaurant chain known for its delectable biryani
 
 [MyMedia](MyMedia.md)
 
+**************************
+## Must to read Books
+
+Here are a few book recommendations that are worth reading at least once.
+
+| Book Name                                       | Recommendation Reason                                  | Author                |
+| ----------------------------------------------- | ------------------------------------------------------- | ----------------------|
+| "The Intelligent Investor"                      | Timeless principles for intelligent investing           | Benjamin Graham       |
+| "One Up On Wall Street"                         | Insights into finding investment opportunities           | Peter Lynch           |
+| "The Four Pillars of Investing"                 | Covers theory, history, psychology, and business of investing | William J. Bernstein |
+| "Common Sense on Mutual Funds"                  | Advocates for index fund investing and portfolio building | John C. Bogle         |
+
 
 
 
