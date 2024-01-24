@@ -33,7 +33,7 @@ Paradise Biryani is a renowned restaurant chain known for its delectable biryani
     * Gucchi
     * RK Jewellers
 
-[MyMedia](MyMedia.md)
+
 
 
 
